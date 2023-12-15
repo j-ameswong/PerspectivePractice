@@ -1,5 +1,5 @@
 # PerspectivePractice
-A simple script which generates 3D perspective drawing practice for my sister
+A simple script which generates 3D art perspective drawing practice for my sister
 
 Pygame is required to be installed
 
